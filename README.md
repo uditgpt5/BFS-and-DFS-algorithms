@@ -6,4 +6,4 @@ In the files bfs.c and dfs.c I will be implementing BFS and DFS respectively usi
 Four parameters are displayed on screen for the output: vertex (indicating which vertex is being traversed), parent vertex (which vertex was traversed prior to visiting the current one) and color ('g' indicates that the vertex has been traversed while 'w' indicates it remains to be visited).
 The color parameter will help ensure that all vertices have been visited during implementation of algorithm. 
 
-The code can be executed by simply giving the following command: gcc <name of file>. 
+The code can be executed by simply giving the following command: gcc bfs.c or gcc dfs.c 
